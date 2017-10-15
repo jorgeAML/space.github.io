@@ -1,0 +1,92 @@
+@media (max-width: 736px) {
+	.idl19 img {
+		width: 320px;
+	}
+	.idl219 img {
+		width: 320px;
+	}
+	.vudiv219 img {
+		width: 320px;
+	}
+	#lbd19 p {
+		margin-right: auto;
+		margin-left: 5%;
+		display: grid;
+	}
+	.vudiv19 p {
+		margin-right: auto;
+		margin-left: 5%;
+		display: grid;
+	}
+	.vu19 {
+		display: grid;
+		position: relative;
+	}
+	.asf_logo {
+		width: 290px;
+	}
+	.capuccino-container {
+		margin-left: 4%;
+		margin-bottom: 5%;
+		padding-right: 15px;
+	}
+	.asphalt-container {
+		/*margin-left: 4%;*/
+		margin-bottom: 5%;
+		padding-right: 15px;
+	}
+	/*This clases are from landing-anatomy page*/
+	.heilz img {
+		width: 416px;
+		position: static;
+	}
+	.heilz h1 {
+		font-size: 2em;
+		padding-top: 520px;
+		
+	}
+	.heilz3 {
+		font-size: 12px;
+		padding-top: 50px;
+	}
+	.heilz2 {
+		font-size: 12px;
+	}
+	.topauto {
+		margin-top: 30px;
+	}
+	.fs-i {
+		font-size: 8em;
+	}
+	.fs-5 h1 {
+		font-size: 4em;
+	}
+	.fs-5 p {
+		font-size: 2em;
+	}
+	.fs-5 a {
+		font-size: 1.2em;
+	}
+	.aml-48 {
+		font-size: 68px;
+	}
+	.top-mobile {
+		margin-top: 60px;
+	}
+	.media-aml {
+		margin-top: 30px;
+	}
+	/*fisiologia codes*/
+	.media-fg-2 {
+		margin-top: 2%;
+	}
+	.iframe-facebook {
+		width: 100%;
+		height: 500px;
+	}
+	/*containers for bioquimica*/
+	.media_cont {
+		margin-top: 7%;
+		margin-bottom: 7%;
+	}
+}
