@@ -1,0 +1,195 @@
+#next {
+	background-image: linear-gradient(to bottom, #005555, 	#006666 50%, #007777);
+	border-bottom: 	#003333;
+	color: 	#fff4e6;
+	box-shadow: 0px 1.5px 5px 1px #003333;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px;  
+}
+#next2 {
+	background-image: linear-gradient(to bottom, #a67c00, 	#bf9b30 50%, #ffbf00);
+	border-bottom: 	#ffcf40;
+	color: 	#fff4e6;
+	box-shadow: 0px 1.5px 5px 1px #a67c00;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px;  
+}
+#next3 {
+	background-image: linear-gradient(to bottom, #4d7f17, 	#6bb120 50%, 	#8ae429);
+	border-bottom: 		#9afe2e;
+	color: 	#aefe57;
+	box-shadow: 0px 1.5px 5px 1px #4d7f17;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px; 
+}
+.aml_img_co {
+	background-color: #f9f9f9;
+	/*border: 3px solid #666547;*/
+	padding: 5px;
+	border-radius: 5px;
+	box-shadow: 0px 1.5px 5px 1px #c0c5ce;
+}
+.aml_img_cr {
+	background-color: #f9f9f9;
+	padding: 5px;
+	border-radius: 1px;
+	box-shadow: 0px 1.5px 5px 1px #c0c5ce;
+}
+.semio_hide {
+	/*margin-right: 10%;*/
+}
+.credits {
+	background-color: #f9f9f9;
+	padding: 5px;
+	border-radius: 5px;
+	box-shadow: 0px 1.5px 5px 1px #c0c5ce;
+	color: 	#666547;
+	font-weight: bold;
+}
+.col-md-3 img {
+	margin-top: 6%;
+	height: 250px;
+	margin-left: 18%;
+	/*opacity: 1.9;*/
+}
+.img-footer {
+	margin-top: 6%;
+	height: 250px;
+	margin-left: 18%;
+	opacity: 1.9;
+}
+.col-md-4 .img_eventos1 {
+	margin-left: 0%;
+	margin-top: 10%;
+	background-color: #f9f9f9;
+	padding: 5px;
+	border-radius: 1px;
+	box-shadow: 0px 1.5px 5px 1px #ffbf00;
+	height: 350px;
+	width: 350px;
+}
+.col-md-4 .img_eventos2 {
+	margin-left: 0%;
+	margin-top: 10%;
+	background-color: #f9f9f9;
+	padding: 5px;
+	border-radius: 1px;
+	box-shadow: 0px 1.5px 5px 1px #ffbf00;
+	height: 350px;
+	width: 350px;
+}
+.col-md-4 .img_eventos3 {
+	margin-left: 0%;
+	margin-top: 10%;
+	background-color: #f9f9f9;
+	padding: 5px;
+	border-radius: 1px;
+	box-shadow: 0px 1.5px 5px 1px #ffbf00;
+	height: 350px;
+	width: 350px;
+}
+.p_evento {
+	background-color: #f9f9f9;
+	padding: 5px;
+	border-radius: 5px;
+	box-shadow: 0px 1.5px 5px 1px #ffbf00;
+	color: 	#666547;
+	font-weight: bold;
+}
+.col-md-4 img {
+	/*opacity: 0.7;*/
+}
+.navbar li a {
+	color: #007777;
+}
+.navbar-header a {
+	color: #007777;
+}
+footer {
+	margin-top: 5%;
+	border-top: 1px solid  #007777;
+}
+.copyright {
+	/*font-family: 'Raleway', Verdana;*/
+}
+hr {
+	border-top: 1px solid #006666;
+}
+.theme-showcase {
+	width: auto;
+}
+/*.table {
+	margin-top: 2%;
+	border: 0.5px solid #10120d;
+	border-color: #10120d;
+}*/
+.table-condensed > thead > tr > th,
+.table-condensed > tbody > tr > td, {
+	border: 0.5px solid #10120d;
+	border-color: #10120d;
+}
+/*.table-condensed,
+ thead,
+ tbody,
+ tr {
+ 	border: 4px solid #f7f7f7;
+ 	border-radius: 25px;
+}*/
+.table-condensed > tbody > tr > td, .table-condensed > tbody > tr > th, .table-condensed > tfoot > tr > td, .table-condensed > tfoot > tr > th, .table-condensed > thead > tr > td, .table-condensed > thead > tr > th {
+    border: 1px solid #10120d; 
+}
+.co1 {
+
+}
+@media print {
+	img {
+		float: none;
+	}
+}
+/*After this row is the evento1.html*/
+.col-md-4 .img_evento1 {
+	background-color: #f9f9f9;
+	padding: 5px;
+	border-radius: 1px;
+	box-shadow: 0px 1.5px 5px 1px #c0c5ce;
+	height: 350px;
+	width: 350px;
+}
+/*all elements and Object after this row is only of footer in global Web site*/
+@media (min-width: 360px) {
+	.footer_first_row {
+		margin-top: 20%;
+	}
+	.media-aml {
+		margin-top: 10%;
+	}
+}
+@media (min-width: 320px) {
+	.footer_first_row {
+		margin-top: 20%;
+	}
+	.media-aml {
+		margin-top: 10%;
+	}
+}
+@media (min-width: 768px) {
+	.footer_first_row {
+		margin-top: 0%;
+	}
+	.media-aml {
+		margin-top: 0%;
+	}
+}
+@media (min-width: 1024px) {
+	.footer_first_row {
+		margin-top: 0%;
+	}
+	.media-aml {
+		margin-top: 0%;
+	}
+}
+/*all elements after this row are in contacto.html this is for Version 1.1 */
+
+.icon-htmlfive, .icon-cssthree, .icon-jquery, .icon-ruby {
+	color: #dfe1df;
+}
